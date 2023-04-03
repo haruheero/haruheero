@@ -10,8 +10,8 @@
 
 ## 🏅 Achievements
 
--   📝 **I am a LinkedIn CoachIn mentee 2022 (Top 50 out of 5000+), Harvard WECode Scholar 2022.
--   🏆 **I am also a Flipkart Runway Scholar 2022 and won an internship in Flipkart summer through the same (Top 15 out of 11000+)
+-   📝 **I am a LinkedIn CoachIn** mentee 2022 (Top 50 out of 5000+), Harvard WECode Scholar 2022.
+-   🏆 **I am also a Flipkart Runway Scholar** 2022 and won an internship in Flipkart summer through the same (Top 15 out of 11000+)
 -   ⏫ **JPMC Code for Good** Winner 2022.
 -   🚁 **Hack the Tank Winner** hosted by GDSC NIT Surat for developing a solution for Shark Tank India featured startup Hobby India.
 -   ⭐ **Global rank 1282** at _Google CodeJam for Women 2022.
