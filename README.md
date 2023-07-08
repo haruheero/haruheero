@@ -71,7 +71,7 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=haruheero&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=haruheero&show_icons=true&hide_border=true" alt="Pakhi Srivastava's GitHub Stats">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=haruheero&show_icons=true&hide_border=true" alt="Pakhi Srivastava's GitHub Stats"> -->
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=haruheero.haruheero" alt="visitors">
 </div>
